@@ -1,4 +1,4 @@
-# C codes for Definite Integrals using Rectangular and Trapezoidal Methods (Midpoint only)
+# C code for Definite Integrals using Rectangular and Trapezoidal Methods (Midpoint only)
 ## Users may be able to input the function "f(x)" assuming:
 1) Function does not contain n-roots (e.g. square root)
 2) Parenthesis "()" is used to disclose grouped operands and operators IF NEEDED
